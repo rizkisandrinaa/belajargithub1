@@ -1,3 +1,5 @@
 Universitas Mdp
 Program Studi Sistem Informasi
 klas si4b
+belajar membuat akun github
+belajar membuat repository
